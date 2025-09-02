@@ -15,7 +15,7 @@ controlnet_id = "diffusers/controlnet-canny-sdxl-1.0"
 # --- NEW: Control panel for your POC ---
 # Add the numbers of the specific images you want to generate.
 # I've chosen 5 diverse examples to start with.
-POC_IMAGE_NUMBERS = [4, 5, 8, 16, 21] 
+POC_IMAGE_NUMBERS = [4, 5] 
 
 
 # detecting the gpu 
